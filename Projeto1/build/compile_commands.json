@@ -1,0 +1,97 @@
+[
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/abcg",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_application.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_application.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_application.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/abcg",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_elapsedtimer.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_elapsedtimer.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_elapsedtimer.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/abcg",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_exception.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_exception.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_exception.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/abcg",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_image.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_image.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_image.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/abcg",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_openglfunctions.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_openglfunctions.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_openglfunctions.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/abcg",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_openglwindow.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_openglwindow.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_openglwindow.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/abcg",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_string.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_string.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_string.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/abcg",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_trackball.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_trackball.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/abcg_trackball.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/abcg/external/imgui",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -s USE_SDL=2 -o CMakeFiles/imgui.dir/imgui.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/external/imgui/imgui.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/external/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/abcg/external/imgui",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -s USE_SDL=2 -o CMakeFiles/imgui.dir/imgui_demo.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/external/imgui/imgui_demo.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/external/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/abcg/external/imgui",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -s USE_SDL=2 -o CMakeFiles/imgui.dir/imgui_draw.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/external/imgui/imgui_draw.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/external/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/abcg/external/imgui",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -s USE_SDL=2 -o CMakeFiles/imgui.dir/imgui_widgets.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/external/imgui/imgui_widgets.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/external/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/abcg/external/imgui",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -s USE_SDL=2 -o CMakeFiles/imgui.dir/imgui_impl_sdl.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/external/imgui/imgui_impl_sdl.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/external/imgui/imgui_impl_sdl.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/abcg/external/imgui",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -s USE_SDL=2 -o CMakeFiles/imgui.dir/imgui_impl_opengl3.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/external/imgui/imgui_impl_opengl3.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/external/imgui/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/abcg/external/fmt",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/fmt.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -o CMakeFiles/fmt.dir/format.cc.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/external/fmt/format.cc",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/abcg/external/fmt/format.cc"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/examples/coronarun",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/coronarun.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/coronarun.dir/main.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/examples/coronarun/main.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/examples/coronarun/main.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/examples/coronarun",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/coronarun.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/coronarun.dir/openglwindow.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/examples/coronarun/openglwindow.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/examples/coronarun/openglwindow.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/examples/coronarun",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/coronarun.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/coronarun.dir/coronav.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/examples/coronarun/coronav.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/examples/coronarun/coronav.cpp"
+},
+{
+  "directory": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/examples/coronarun",
+  "command": "/home/nanomugen/emsdk/upstream/emscripten/em++   @CMakeFiles/coronarun.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/coronarun.dir/aluno.cpp.o -c /home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/examples/coronarun/aluno.cpp",
+  "file": "/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/examples/coronarun/aluno.cpp"
+}
+]

@@ -1,0 +1,4 @@
+/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/rebuild_cache.dir
+/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/edit_cache.dir
+/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/boo.dir
+/home/nanomugen/KOMPGRAPH/Z_PROJ1/Projeto1/build/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/foo.dir
